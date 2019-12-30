@@ -25,7 +25,8 @@ Vita TVのホワイトリスト化(ゲームの起動制限解除)をほぼ自�
 3. PCに最新の[コンテンツ管理アシスタント](http://cma.dl.playstation.net/cma/win/jp/)をインストールし、起動します。
 4. Vita TVの「コンテンツ管理」を起動し、PCと接続します。
 5. 「バックアップユーティリティー」から「バックアップ」を選択し、名称は変更せずバックアップを実行します。  
-NOTE: バックアップしたファイルはデフォルトでは `C:\Users\[ユーザー名]\Documents\PS Vita\SYSTEM\[16桁のID]\[作成日時作成時間]-01`フォルダに作成されます。例: `C:\Users\USER_NAME\Documents\PS Vita\SYSTEM\01234567ABCDEF\201912312359-01`  
+NOTE: バックアップしたファイルはデフォルトでは `C:\Users\[ユーザー名]\Documents\PS Vita\SYSTEM\[16桁のID]\[作成日時作成時間]-01`フォルダに作成されます。  
+例: `C:\Users\USER_NAME\Documents\PS Vita\SYSTEM\01234567ABCDEF\201912312359-01`  
 6. [自動化バッチファイル](https://github.com/1jtp8sobiu/ps_tv_whitelist_bat/archive/master.zip)をダウンロードし、PCの任意の場所に展開します。
 7. ステップ5.で作成された`[作成日時作成時間]-01` フォルダを展開した`Drag_and_Drop_Here.bat`にドラッグ&ドロップします。  
 ![](https://github.com/1jtp8sobiu/ps_tv_whitelist_bat/raw/master/img/25a2e475e4d5edcd602e242dbca8fd9e.png)
