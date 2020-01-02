@@ -83,6 +83,6 @@ How to install the PSTV Whitelist Patch (v2)
 https://hackinformer.com/PlayStationGuide/PSV/tutorials/how_to_install_the_pstv_whitelist_patch_v2.html
 
 ## Credits
-- Thanks to SilicaAndPina for researching for whitelist hack.
+- Thanks to SilicaAndPina for his research for whitelist hack.
 - Thanks to yifanlu for psvimgtools.
 - Thanks to Davee and Proxima for http://cma.henkaku.xyz/.
