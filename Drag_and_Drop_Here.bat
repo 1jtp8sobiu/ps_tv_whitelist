@@ -56,7 +56,8 @@ echo ### （注）最大で5GBほどの容量が一時的に必要になる場合があります。ドライブの
 echo.
 echo ### バックアップファイルの展開に必要なCMA Keyを取得します。
 echo ### 自動的にWebブラウザが開くので、表示された64桁のCMA Keyをコピーしてください。
-echo ### (Enterを押すとWebブラウザが開きます。)
+echo ### （ http://cma.henkaku.xyz/?aid=%AID% にアクセスします。中止する場合はこの画面を閉じてください。）
+echo ### （ Enterを押すとWebブラウザを開きます。）
 set /p TEST=
 
 start http://cma.henkaku.xyz/?aid=%AID%
