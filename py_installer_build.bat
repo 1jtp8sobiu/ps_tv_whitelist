@@ -1,0 +1,1 @@
+pyinstaller ps_tv_whitelist.spec
