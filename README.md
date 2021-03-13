@@ -21,7 +21,7 @@ Vitaのゲームソフトの中には、Vita TVでは起動が出来ないよう
 5. 「バックアップユーティリティー」から「バックアップ」を選択し、名称は変更せずバックアップを実行します。  
 NOTE: バックアップしたファイルはデフォルトでは `C:\Users\[ユーザー名]\Documents\PS Vita\SYSTEM\[16桁のID]\[作成日時作成時間]-01`フォルダに作成されます。  
 例: `C:\Users\USER_NAME\Documents\PS Vita\SYSTEM\01234567ABCDEF\201912312359-01`  
-6. [自動化ツール](https://github.com/1jtp8sobiu/ps_tv_whitelist/releases/download/v1.0/ps_tv_whitelist-win64.zip) をダウンロードし、PCの任意の場所に展開します。
+6. [自動化ツール](/releases/download/v1.0/ps_tv_whitelist-win64.zip) をダウンロードし、PCの任意の場所に展開します。
 7. ステップ5.で作成された`[作成日時作成時間]-01` フォルダをダウンロードした`ps_tv_whitelist.exe`にドラッグ&ドロップします。  
 ![](/ss.png)
 8. 処理が完了したらVita TVの「コンテンツ管理」を起動し、「バックアップユーティリティー」から「リストア(復元)」を選択します。  
