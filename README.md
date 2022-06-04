@@ -65,7 +65,7 @@ CMASetup.exeのプロパティ -> 互換性 -> 互換モード から "Windows X
 32bitのWindowsはサポートされていません。64bit上で実行してください。
 
 ## テスト環境
-- Vita TV システムソフトウェア 3.73
+- Vita TV システムソフトウェア 3.74
 - Windows 10 x64 Version 20H2 
 - コンテンツ管理アシスタント Version 3.56.7933.1204
 
@@ -80,6 +80,6 @@ How to install the PSTV Whitelist Patch (v2)
 https://hackinformer.com/PlayStationGuide/PSV/tutorials/how_to_install_the_pstv_whitelist_patch_v2.html
 
 ## Credits
-- Thanks to SilicaAndPina for his research for whitelist hack.
+- Thanks to SilicaAndPina for their research for whitelist hack.
 - Thanks to yifanlu for psvimgtools.
 - Thanks to Davee and Proxima for http://cma.henkaku.xyz/.
